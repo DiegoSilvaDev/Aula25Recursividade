@@ -22,11 +22,16 @@ namespace Recursividade
             Console.ResetColor();
         }
 
+        // GerarSequenciaTribonacci(1, 1, 2, 15)
+        // GerarSequenciaTribonacci(1, 2, 4, 14)
+        // GerarSequenciaTribonacci(2, 4, 7, 13)
+        // GerarSequenciaTribonacci(4, 7, 13, 12)
+        // GerarSequenciaTribonacci(7, 13, 24, 11)
         public void GerarSequenciaTribonacci(int num1, int num2, int num3, int vezes){
             Console.ForegroundColor = ConsoleColor.Yellow;
             if(vezes >= 0){
                 Console.WriteLine(num1);
-                GerarSequenciaTribonacci(num2 ,num3, num1 + num2 + num3, vezes -1);
+                GerarSequenciaTribonacci(num2 , num3, num1 + num2 + num3, vezes -1);
             }
             Console.ResetColor();
         }
