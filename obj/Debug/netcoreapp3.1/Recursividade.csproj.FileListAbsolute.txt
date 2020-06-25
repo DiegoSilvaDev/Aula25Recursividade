@@ -1,0 +1,13 @@
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\Recursividade\bin\Debug\netcoreapp3.1\Recursividade.exe
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\Recursividade\bin\Debug\netcoreapp3.1\Recursividade.deps.json
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\Recursividade\bin\Debug\netcoreapp3.1\Recursividade.runtimeconfig.json
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\Recursividade\bin\Debug\netcoreapp3.1\Recursividade.runtimeconfig.dev.json
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\Recursividade\bin\Debug\netcoreapp3.1\Recursividade.dll
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\Recursividade\bin\Debug\netcoreapp3.1\Recursividade.pdb
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\Recursividade\obj\Debug\netcoreapp3.1\Recursividade.csprojAssemblyReference.cache
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\Recursividade\obj\Debug\netcoreapp3.1\Recursividade.csproj.CoreCompileInputs.cache
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\Recursividade\obj\Debug\netcoreapp3.1\Recursividade.AssemblyInfoInputs.cache
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\Recursividade\obj\Debug\netcoreapp3.1\Recursividade.AssemblyInfo.cs
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\Recursividade\obj\Debug\netcoreapp3.1\Recursividade.dll
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\Recursividade\obj\Debug\netcoreapp3.1\Recursividade.pdb
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\Recursividade\obj\Debug\netcoreapp3.1\Recursividade.genruntimeconfig.cache
